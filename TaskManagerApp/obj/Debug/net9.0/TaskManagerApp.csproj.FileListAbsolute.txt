@@ -1,0 +1,14 @@
+F:\code\MDK0301\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.exe
+F:\code\MDK0301\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.deps.json
+F:\code\MDK0301\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.runtimeconfig.json
+F:\code\MDK0301\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.dll
+F:\code\MDK0301\TaskManagerApp\bin\Debug\net9.0\TaskManagerApp.pdb
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.AssemblyInfoInputs.cache
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.AssemblyInfo.cs
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.csproj.CoreCompileInputs.cache
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.dll
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\refint\TaskManagerApp.dll
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.pdb
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\TaskManagerApp.genruntimeconfig.cache
+F:\code\MDK0301\TaskManagerApp\obj\Debug\net9.0\ref\TaskManagerApp.dll

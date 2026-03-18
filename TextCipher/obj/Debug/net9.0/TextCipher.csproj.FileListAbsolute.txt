@@ -1,0 +1,14 @@
+F:\code\MDK0301\TextCipher\bin\Debug\net9.0\TextCipher.exe
+F:\code\MDK0301\TextCipher\bin\Debug\net9.0\TextCipher.deps.json
+F:\code\MDK0301\TextCipher\bin\Debug\net9.0\TextCipher.runtimeconfig.json
+F:\code\MDK0301\TextCipher\bin\Debug\net9.0\TextCipher.dll
+F:\code\MDK0301\TextCipher\bin\Debug\net9.0\TextCipher.pdb
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\TextCipher.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\TextCipher.AssemblyInfoInputs.cache
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\TextCipher.AssemblyInfo.cs
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\TextCipher.csproj.CoreCompileInputs.cache
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\TextCipher.dll
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\refint\TextCipher.dll
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\TextCipher.pdb
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\TextCipher.genruntimeconfig.cache
+F:\code\MDK0301\TextCipher\obj\Debug\net9.0\ref\TextCipher.dll

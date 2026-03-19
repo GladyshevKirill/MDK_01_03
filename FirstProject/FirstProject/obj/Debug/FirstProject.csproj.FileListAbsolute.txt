@@ -1,0 +1,11 @@
+F:\code\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+F:\code\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+F:\code\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+F:\code\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+F:\code\FirstProject\FirstProject\obj\Debug\FirstProject.Form1.resources
+F:\code\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+F:\code\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.cache
+F:\code\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+F:\code\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+F:\code\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+F:\code\FirstProject\FirstProject\obj\Debug\FirstProject.exe.config
